@@ -61,7 +61,6 @@ plt.ylabel('Price ($)')
 plt.show()
 
 
----
 
 ## 🖼️ Output Preview
 
