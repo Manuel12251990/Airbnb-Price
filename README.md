@@ -59,8 +59,6 @@ plt.xlabel('Number of Reviews')
 plt.ylabel('Price ($)')
 plt.show()
 
-     
-
 
 🖼️ Output Preview (Visuals)
 📊 Average Airbnb Price by Borough
