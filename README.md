@@ -26,6 +26,28 @@ To analyze Airbnb listings in NYC and answer key questions:
 - Visual analysis with `matplotlib` and `seaborn`
 - Correlation insights using scatter plots
 - Exporting and saving visualizations
+
+--
+
+## 🖼️ Output Preview
+
+**📊 Average Airbnb Price by Borough**  
+![image](https://github.com/user-attachments/assets/b3ef5e24-1d34-479d-b61b-dd95755a524d)
+
+
+**📈 Price vs. Number of Reviews**  
+![image](https://github.com/user-attachments/assets/08eab8e2-7a13-4a4e-8597-a4bc6a34c1a4)
+
+
+🔄 Next Steps
+Use a full NYC dataset from Inside Airbnb or Kaggle
+
+Incorporate geospatial visuals using folium or plotly
+
+Add boxplots and statistical summaries
+
+Explore simple regression or classification models to predict price or churn
+
 ---
 
 ## 🧾 Code Sample
@@ -60,26 +82,6 @@ plt.xlabel('Number of Reviews')
 plt.ylabel('Price ($)')
 plt.show()
 
-
-
-## 🖼️ Output Preview
-
-**📊 Average Airbnb Price by Borough**  
-![image](https://github.com/user-attachments/assets/b3ef5e24-1d34-479d-b61b-dd95755a524d)
-
-
-**📈 Price vs. Number of Reviews**  
-![image](https://github.com/user-attachments/assets/08eab8e2-7a13-4a4e-8597-a4bc6a34c1a4)
-
-
-🔄 Next Steps
-Use a full NYC dataset from Inside Airbnb or Kaggle
-
-Incorporate geospatial visuals using folium or plotly
-
-Add boxplots and statistical summaries
-
-Explore simple regression or classification models to predict price or churn
 
 
 
