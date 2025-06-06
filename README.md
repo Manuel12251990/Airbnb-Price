@@ -2,7 +2,7 @@
 
 ##📌 Summary:This Python-based project explores Airbnb pricing trends across New York City boroughs...
 
-##🎯 Objective: To analyze Airbnb listings in NYC and answer key questions:
+#🎯 Objective: To analyze Airbnb listings in NYC and answer key questions:
 
 Which boroughs have the highest and lowest average Airbnb prices?
 How does room type affect price?
