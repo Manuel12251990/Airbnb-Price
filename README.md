@@ -32,10 +32,12 @@ To analyze Airbnb listings in NYC and answer key questions:
 ## 🖼️ Output Preview
 
 **📊 Average Airbnb Price by Borough**  
-![Average Price Bar Chart](avg_price_by_borough.png)
+![image](https://github.com/user-attachments/assets/b3ef5e24-1d34-479d-b61b-dd95755a524d)
+
 
 **📈 Price vs. Number of Reviews**  
-![Price vs Reviews Scatter Plot](price_vs_reviews.png)
+![image](https://github.com/user-attachments/assets/08eab8e2-7a13-4a4e-8597-a4bc6a34c1a4)
+
 
 ![Chart](avg_price_by_borough.png)
 ![Chart](price_vs_reviews.png)
