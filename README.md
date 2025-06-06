@@ -1,6 +1,6 @@
 **🏙️ Airbnb Price Trends in NYC**
 
-📌 Summary:This Python-based project explores Airbnb pricing trends across New York City boroughs...
+📌 Summary: This Python-based project explores Airbnb pricing trends across New York City boroughs...
 
 🎯 Objective: To analyze Airbnb listings in NYC and answer key questions:
 
