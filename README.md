@@ -1,26 +1,30 @@
-**#🏙️ Airbnb Price Trends in NYC**
+**🏙️ Airbnb Price Trends in NYC**
 
-##📌 Summary:This Python-based project explores Airbnb pricing trends across New York City boroughs...
+📌 Summary:This Python-based project explores Airbnb pricing trends across New York City boroughs...
 
-#🎯 Objective: To analyze Airbnb listings in NYC and answer key questions:
+🎯 Objective: To analyze Airbnb listings in NYC and answer key questions:
 
 Which boroughs have the highest and lowest average Airbnb prices?
 How does room type affect price?
 Is there a relationship between number of reviews, availability, and price?
+
 ⚙️ Tools & Environment
 Python 3.11+
 Jupyter Notebook (or any Python IDE)
 Libraries: Pandas, Matplotlib, Seaborn
+
 🧠 Techniques Demonstrated
 Data cleaning and formatting with pandas
 Grouping and aggregation
 Visual analysis with matplotlib and seaborn
 Correlation insights using scatter plots
 Exporting and saving visualizations
+
 🔎 Query Breakdown (Step-by-Step)
 Load a sample dataset of Airbnb listings in NYC
 Clean the dataset and standardize formats
 Group and aggregate average prices by borough
+
 Create visualizations: bar chart and scatter plot
 Interpret patterns and trends
 
@@ -62,9 +66,6 @@ plt.show()
 📊 Average Airbnb Price by Borough
 
 📈 Price vs. Number of Reviews
-
-📂 File
-This notebook file is called airbnb_price_analysis.ipynb.
 
 🔄 Next Steps
 Use a full NYC dataset from Inside Airbnb or Kaggle
