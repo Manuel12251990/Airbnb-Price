@@ -40,6 +40,15 @@ To analyze Airbnb listings in NYC and answer key questions:
 ![Chart](avg_price_by_borough.png)
 ![Chart](price_vs_reviews.png)
 
+🔄 Next Steps
+Use a full NYC dataset from Inside Airbnb or Kaggle
+
+Incorporate geospatial visuals using folium or plotly
+
+Add boxplots and statistical summaries
+
+Explore simple regression or classification models to predict price or churn
+
 ---
 
 ## 🧾 Code Sample
@@ -74,13 +83,5 @@ plt.xlabel('Number of Reviews')
 plt.ylabel('Price ($)')
 plt.show()
 
-🔄 Next Steps
-Use a full NYC dataset from Inside Airbnb or Kaggle
-
-Incorporate geospatial visuals using folium or plotly
-
-Add boxplots and statistical summaries
-
-Explore simple regression or classification models to predict price or churn
 
 
