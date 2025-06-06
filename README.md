@@ -39,7 +39,7 @@ To analyze Airbnb listings in NYC and answer key questions:
 ![image](https://github.com/user-attachments/assets/08eab8e2-7a13-4a4e-8597-a4bc6a34c1a4)
 
 
-🔄 **Next Steps**
+## 🔄 Next Steps
 Use a full NYC dataset from Inside Airbnb or Kaggle
 
 Incorporate geospatial visuals using folium or plotly
